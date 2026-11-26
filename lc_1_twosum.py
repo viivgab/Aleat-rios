@@ -1,4 +1,5 @@
 # Leet Code 1 - Two Sum
+# Ordem de estudo: #1 | Data: 24/11/2026
 
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
